@@ -9,3 +9,5 @@ export const FOURTH_COLOR = '#FFFADE';
 export const FIFTH_COLOR = '#FEF7FF';
 
 export const SIXTH_COLOR = '#FFF6FF';
+
+export const SEVENTH_COLOR = '#FEE9FF';
